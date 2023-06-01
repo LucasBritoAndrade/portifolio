@@ -3,5 +3,5 @@
 >Status do projeto: Em desenvolvimento.
 
 ```
-Para fazer acompanhamento do projeto so acessar o link 
+Para fazer acompanhamento do projeto so acessar o link https://portifolio-nu-dusky.vercel.app/
 ```
